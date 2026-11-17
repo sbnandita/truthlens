@@ -1,0 +1,896 @@
+[
+  {
+    "id": "kb-chennai-rain-holiday-2026",
+    "topic": "Weather & Education",
+    "canonical_headline": "Heavy rainfall warning and school holiday announced for Chennai and coastal districts",
+    "keywords": ["chennai", "rainfall", "rain", "schools", "closed", "holiday", "government offices", "district collector", "மழை", "பள்ளி", "விடுமுறை", "சென்னை"],
+    "language": "en",
+    "tamil_headline": "சென்னை மற்றும் கடலோர மாவட்டங்களில் கனமழை எச்சரிக்கை - பள்ளி விடுமுறை அறிவிப்பு",
+    "overall_verdict": "Misleading",
+    "credibility_score": 62,
+    "confidence": 0.94,
+    "original_date": "2026-11-15",
+    "latest_update_date": "2026-11-17",
+    "is_outdated": false,
+    "summary_en": "While the Indian Meteorological Department (IMD) issued a heavy rainfall alert and the Chennai District Collector declared a holiday for schools, the claim that government offices and private institutions are closed is false. Essential government offices and banks continue normal operations.",
+    "summary_ta": "வானிலை ஆய்வு மையம் கனமழை எச்சரிக்கை விடுத்ததும், சென்னை மாவட்ட ஆட்சியர் பள்ளிகளுக்கு மட்டுமே விடுமுறை அறிவித்ததும் உண்மை. ஆனால் அனைத்து அரசு அலுவலகங்களும் மூடப்படும் என்ற தகவல் தவறானது. அரசு அலுவலகங்கள் வழக்கம்போல் இயங்குகின்றன.",
+    "claims": [
+      {
+        "id": "c1",
+        "statement_en": "Heavy rainfall is expected in Chennai and neighboring coastal areas.",
+        "statement_ta": "சென்னையிலும் அதன் அருகிலுள்ள கடலோரப் பகுதிகளிலும் கனமழை எதிர்பார்க்கப்படுகிறது.",
+        "status": "Likely Reliable",
+        "confidence": 0.96,
+        "supporting_evidence": "IMD Regional Meteorological Centre Chennai issued an Orange Alert forecasting 70mm to 110mm rainfall across Chennai, Tiruvallur, and Kanchipuram.",
+        "contradicting_evidence": "None. Meteorological radar data and official bulletins corroborate active convective cloud clusters.",
+        "sources": [
+          {
+            "name": "India Meteorological Department (IMD)",
+            "category": "Primary Official",
+            "url": "https://mausam.imd.gov.in/chennai",
+            "date": "2026-11-16",
+            "reliability": "Very High"
+          },
+          {
+            "name": "The Hindu",
+            "category": "Established News",
+            "url": "https://www.thehindu.com/news/cities/chennai/weather-alert-heavy-rain-forecast",
+            "date": "2026-11-16",
+            "reliability": "High"
+          }
+        ],
+        "explanation_en": "Official meteorological bulletins confirm an Orange Alert for coastal districts.",
+        "explanation_ta": "வானிலை ஆய்வு மையத்தின் அதிகாரப்பூர்வ அறிக்கை கடலோர மாவட்டங்களுக்கான ஆரஞ்சு எச்சரிக்கையை உறுதி செய்கிறது."
+      },
+      {
+        "id": "c2",
+        "statement_en": "Schools will remain closed tomorrow in Chennai.",
+        "statement_ta": "சென்னையில் நாளை பள்ளிகளுக்கு விடுமுறை அளிக்கப்படும்.",
+        "status": "Likely Reliable",
+        "confidence": 0.98,
+        "supporting_evidence": "Chennai District Collector issued a formal press release declaring a holiday for all government and private schools on November 17.",
+        "contradicting_evidence": "None for schools in Chennai district.",
+        "sources": [
+          {
+            "name": "District Collectorate, Chennai",
+            "category": "Primary Official",
+            "url": "https://chennai.nic.in/press-releases",
+            "date": "2026-11-16",
+            "reliability": "Very High"
+          },
+          {
+            "name": "Puthiya Thalaimurai News",
+            "category": "Established News",
+            "url": "https://www.puthiyathalaimurai.com/tamilnadu-news/chennai-school-holiday",
+            "date": "2026-11-16",
+            "reliability": "High"
+          }
+        ],
+        "explanation_en": "The District Collector confirmed school closure due to localized waterlogging risks.",
+        "explanation_ta": "தண்ணீர் தேங்கும் அபாயத்தை கருத்தில் கொண்டு மாவட்ட ஆட்சியர் பள்ளி விடுமுறையை உறுதிப்படுத்தியுள்ளார்."
+      },
+      {
+        "id": "c3",
+        "statement_en": "All government offices will also remain closed.",
+        "statement_ta": "அனைத்து அரசு அலுவலகங்களும் மூடப்படும்.",
+        "status": "Likely False",
+        "confidence": 0.95,
+        "supporting_evidence": "None. No government department issued a closure order.",
+        "contradicting_evidence": "Tamil Nadu Secretariat and Chennai Corporation issued a clarification stating all administrative and emergency offices operate as usual.",
+        "sources": [
+          {
+            "name": "Fact Check Unit - Govt of Tamil Nadu",
+            "category": "Verified Fact-Checker",
+            "url": "https://factcheck.tn.gov.in/reports/offices-rain-holiday-rumour",
+            "date": "2026-11-16",
+            "reliability": "Very High"
+          },
+          {
+            "name": "Times of India",
+            "category": "Established News",
+            "url": "https://timesofindia.indiatimes.com/city/chennai/govt-clarifies-offices-open",
+            "date": "2026-11-16",
+            "reliability": "High"
+          }
+        ],
+        "explanation_en": "Government staff and offices are fully operational. Closure applies solely to primary and secondary schools.",
+        "explanation_ta": "அரசு ஊழியர்கள் மற்றும் அலுவலகங்கள் வழக்கம்போல் செயல்படுகின்றன. விடுமுறை பள்ளிகளுக்கு மட்டுமே பொருந்தும்."
+      }
+    ],
+    "missing_context": {
+      "has_missing_context": true,
+      "omitted_scope": "Holiday was declared only for Chennai, Tiruvallur, and Kanchipuram schools, not the entire state of Tamil Nadu.",
+      "omitted_entities": "Colleges and higher educational institutions were left to individual university discretion; government offices are completely open.",
+      "critical_caveats": [
+        "Closure is localized to 3 districts, not statewide.",
+        "Government offices, banks, and public transport operate as normal.",
+        "Colleges are not automatically closed unless notified by their respective vice-chancellors."
+      ],
+      "explanation_en": "The forwarded message exaggerates the scope by claiming an across-the-board government shutdown and implying a statewide holiday, whereas official orders strictly limit the closure to schools in selected districts.",
+      "explanation_ta": "பகிர்வ செய்தி தேர்ந்தெடுக்கப்பட்ட 3 மாவட்ட பள்ளி விடுமுறையை தமிழ்நாடு முழுவதற்குமான விடுமுறை எனவும், அரசு அலுவலகங்கள் மூடல் எனவும் தவறாக மிகைப்படுத்தியுள்ளது."
+    },
+    "timeline": [
+      {
+        "date": "2026-11-15 14:00",
+        "title_en": "IMD Issues Heavy Rain Warning",
+        "title_ta": "வானிலை மையம் கனமழை எச்சரிக்கை விடுத்தது",
+        "description_en": "Regional Meteorological Centre spots low-pressure trough over Southwest Bay of Bengal.",
+        "type": "official",
+        "source": "IMD Regional Centre"
+      },
+      {
+        "date": "2026-11-16 18:30",
+        "title_en": "School Holiday Declared for 3 Districts",
+        "title_ta": "3 மாவட்ட பள்ளிகளுக்கு மட்டும் விடுமுறை அறிவிப்பு",
+        "description_en": "Chennai, Tiruvallur and Kanchipuram Collectors announce holiday for schools.",
+        "type": "official",
+        "source": "District Collectorate"
+      },
+      {
+        "date": "2026-11-16 20:00",
+        "title_en": "Unverified WhatsApp Forward Circulates",
+        "title_ta": "உறுதிப்படுத்தப்படாத வாட்ஸ்அப் செய்தி பரவியது",
+        "description_en": "Message falsely claims all TN government offices and banks are declared shut.",
+        "type": "rumor",
+        "source": "Social Media Messaging"
+      },
+      {
+        "date": "2026-11-16 21:15",
+        "title_en": "TN Fact Check Unit Debunks Office Closure",
+        "title_ta": "அரசு அலுவலகங்கள் இயங்கும் என உண்மை சரிபார்ப்பு பிரிவு விளக்கம்",
+        "description_en": "Government confirms essential departments and state offices operate as usual.",
+        "type": "fact_check",
+        "source": "TN Fact Check Unit"
+      },
+      {
+        "date": "2026-11-17 08:30",
+        "title_en": "TruthLens Real-Time Verification Completed",
+        "title_ta": "ட்ரூத்லென்ஸ் நேரடி சரிபார்ப்பு நிறைவுற்றது",
+        "description_en": "Multi-claim cross analysis completed with official corroboration.",
+        "type": "verification",
+        "source": "TruthLens Engine"
+      }
+    ],
+    "sources_catalog": [
+      {
+        "name": "District Collectorate, Chennai",
+        "type": "Primary Official",
+        "authority_score": 98,
+        "is_independent": false,
+        "url": "https://chennai.nic.in/press-releases",
+        "date": "2026-11-16",
+        "confirmation_available": true
+      },
+      {
+        "name": "Fact Check Unit - Govt of Tamil Nadu",
+        "type": "Verified Fact-Checker",
+        "authority_score": 95,
+        "is_independent": true,
+        "url": "https://factcheck.tn.gov.in",
+        "date": "2026-11-16",
+        "confirmation_available": true
+      },
+      {
+        "name": "India Meteorological Department",
+        "type": "Primary Official",
+        "authority_score": 97,
+        "is_independent": false,
+        "url": "https://mausam.imd.gov.in",
+        "date": "2026-11-16",
+        "confirmation_available": true
+      },
+      {
+        "name": "The Hindu",
+        "type": "Established News",
+        "authority_score": 90,
+        "is_independent": true,
+        "url": "https://thehindu.com",
+        "date": "2026-11-16",
+        "confirmation_available": true
+      }
+    ]
+  },
+  {
+    "id": "kb-cyclone-mandous-outdated-2022",
+    "topic": "Severe Weather & Disaster Alert",
+    "canonical_headline": "Severe Cyclonic Storm Mandous approaching Tamil Nadu coast with 100 km/h wind alert",
+    "keywords": ["cyclone", "mandous", "chennai", "red alert", "coastal", "storm", "புயல்", "மாண்டஸ்", "ரெட் அலர்ட்"],
+    "language": "en",
+    "tamil_headline": "மாண்டஸ் தீவிர புயல் சென்னை கடற்கரையை நெருங்குகிறது - ரெட் அலர்ட் எச்சரிக்கை",
+    "overall_verdict": "Likely False",
+    "credibility_score": 18,
+    "confidence": 0.98,
+    "original_date": "2022-12-09",
+    "latest_update_date": "2026-11-17",
+    "is_outdated": true,
+    "old_news_details": {
+      "original_year": "2022",
+      "original_event_date": "9 December 2022",
+      "circulation_year": "2026",
+      "time_gap_years": 4,
+      "current_status": "No cyclone alert currently active along the Tamil Nadu coastline. Weather conditions are normal.",
+      "newer_update_available": true
+    },
+    "summary_en": "OLD NEWS ALERT: This news report is from December 2022 concerning Cyclone Mandous which crossed the Mamallapuram coast four years ago. It is being falsely recycled on social media as a current warning for November 2026. The IMD confirms no such storm exists today.",
+    "summary_ta": "பழைய செய்தி எச்சரிக்கை: இந்தச் செய்தி 2022 டிசம்பரில் மாமல்லபுரம் அருகே கரையை கடந்த மாண்டஸ் புயல் பற்றிய பழைய செய்தி ஆகும். தற்போது 2026-ல் எந்த புயல் எச்சரிக்கையும் இல்லை என வானிலை ஆய்வு மையம் தெரிவித்துள்ளது.",
+    "claims": [
+      {
+        "id": "c1",
+        "statement_en": "Severe Cyclonic Storm Mandous is currently heading towards Chennai and northern Tamil Nadu.",
+        "statement_ta": "மாண்டஸ் தீவிர புயல் தற்போது சென்னை மற்றும் வட தமிழகத்தை நோக்கி நகர்ந்து வருகிறது.",
+        "status": "Likely False",
+        "confidence": 0.99,
+        "supporting_evidence": "Historical news reports from December 2022.",
+        "contradicting_evidence": "IMD cyclone tracking bulletin confirms zero active depressions or cyclonic storms in the Bay of Bengal today. Cyclone Mandous completed its lifecycle in Dec 2022.",
+        "sources": [
+          {
+            "name": "IMD Cyclone Warning Division",
+            "category": "Primary Official",
+            "url": "https://rsmcnewdelhi.imd.gov.in",
+            "date": "2026-11-17",
+            "reliability": "Very High"
+          },
+          {
+            "name": "Alt News",
+            "category": "Verified Fact-Checker",
+            "url": "https://www.altnews.in/old-video-of-cyclone-mandous-shared-as-recent",
+            "date": "2026-11-16",
+            "reliability": "Very High"
+          }
+        ],
+        "explanation_en": "Cyclone Mandous occurred in December 2022. Circulating this alert today creates unwarranted panic.",
+        "explanation_ta": "மாண்டஸ் புயல் 2022 டிசம்பரில் ஏற்பட்டது. தற்போது மீண்டும் பகிர்வது பொதுமக்களிடையே அச்சத்தை உருவாக்குகிறது."
+      },
+      {
+        "id": "c2",
+        "statement_en": "A Red Alert with 100 km/h winds has been declared for today.",
+        "statement_ta": "இன்று 100 கி.மீ வேகத்தில் காற்று வீசும் என ரெட் அலர்ட் விடுக்கப்பட்டுள்ளது.",
+        "status": "Likely False",
+        "confidence": 0.99,
+        "supporting_evidence": "None for the current date.",
+        "contradicting_evidence": "Current wind speeds on the Chennai coastline are recorded at a gentle 12 to 18 km/h.",
+        "sources": [
+          {
+            "name": "National Disaster Management Authority (NDMA)",
+            "category": "Primary Official",
+            "url": "https://ndma.gov.in",
+            "date": "2026-11-17",
+            "reliability": "Very High"
+          }
+        ],
+        "explanation_en": "Wind alert parameters belong to a past meteorological event from 4 years ago.",
+        "explanation_ta": "இந்த எச்சரிக்கை 4 ஆண்டுகளுக்கு முந்தைய பழைய வானிலை நிகழ்வைச் சார்ந்தது."
+      }
+    ],
+    "missing_context": {
+      "has_missing_context": true,
+      "omitted_scope": "Publication year (2022) was intentionally stripped from the viral headline and video thumbnail.",
+      "omitted_entities": "Past disaster response coordination teams from 2022 were depicted as active teams today.",
+      "critical_caveats": [
+        "The alert date is 9-10 December 2022.",
+        "Bay of Bengal is currently under normal weather conditions."
+      ],
+      "explanation_en": "The message conceals the 2022 timestamp to make an expired disaster bulletin appear as an imminent real-time crisis.",
+      "explanation_ta": "2022-ஆம் ஆண்டின் தேதியை நீக்கிவிட்டு, தற்போதைய அவசர எச்சரிக்கை போல் சித்தரித்து பரப்பப்பட்டுள்ளது."
+    },
+    "timeline": [
+      {
+        "date": "2022-12-08",
+        "title_en": "Original Cyclone Mandous Alert Issued",
+        "title_ta": "அசல் மாண்டஸ் புயல் எச்சரிக்கை வெளியீடு",
+        "description_en": "IMD issues red alert for north Tamil Nadu coasts as Mandous intensifies.",
+        "type": "official",
+        "source": "IMD Chennai"
+      },
+      {
+        "date": "2022-12-10",
+        "title_en": "Cyclone Mandous Makes Landfall near Mamallapuram",
+        "title_ta": "மாண்டஸ் புயல் மாமல்லபுரம் அருகே கரையை கடந்தது",
+        "description_en": "Storm crosses coast, weakens into depression, relief operations conclude.",
+        "type": "event",
+        "source": "NDRF / State Govt"
+      },
+      {
+        "date": "2024-11-20",
+        "title_en": "First Recorded Viral Resurgence",
+        "title_ta": "பழைய வீடியோ முதன்முறை மீண்டும் பரவியது",
+        "description_en": "Old TV news clippings reused during northeast monsoon shower.",
+        "type": "rumor",
+        "source": "Social Media"
+      },
+      {
+        "date": "2026-11-16",
+        "title_en": "Viral Forward Resurfaces on Messaging Apps",
+        "title_ta": "வாட்ஸ்அப்பில் மீண்டும் பரவிய பழைய செய்தி",
+        "description_en": "Users circulate 2022 graphic claiming severe cyclonic storm approaching Chennai.",
+        "type": "rumor",
+        "source": "WhatsApp Group Chats"
+      },
+      {
+        "date": "2026-11-17",
+        "title_en": "TruthLens Flags Severe Old News Discrepancy",
+        "title_ta": "ட்ரூத்லென்ஸ் பழைய செய்தி எச்சரிக்கை பதிவு",
+        "description_en": "Automated temporal detection confirms 4-year discrepancy; zero current threat.",
+        "type": "verification",
+        "source": "TruthLens Engine"
+      }
+    ],
+    "sources_catalog": [
+      {
+        "name": "IMD Cyclone Warning Division",
+        "type": "Primary Official",
+        "authority_score": 99,
+        "is_independent": false,
+        "url": "https://rsmcnewdelhi.imd.gov.in",
+        "date": "2026-11-17",
+        "confirmation_available": true
+      },
+      {
+        "name": "Alt News Fact Check",
+        "type": "Verified Fact-Checker",
+        "authority_score": 94,
+        "is_independent": true,
+        "url": "https://altnews.in",
+        "date": "2026-11-16",
+        "confirmation_available": true
+      },
+      {
+        "name": "National Disaster Management Authority",
+        "type": "Primary Official",
+        "authority_score": 98,
+        "is_independent": false,
+        "url": "https://ndma.gov.in",
+        "date": "2026-11-17",
+        "confirmation_available": true
+      }
+    ]
+  },
+  {
+    "id": "kb-pm-kanya-subsidy-scam",
+    "topic": "Government Schemes & Welfare",
+    "canonical_headline": "Central government offering Rs 50,000 cash subsidy under PM Kanya Ayush Yojana via online link",
+    "keywords": ["kanya", "ayush", "subsidy", "50000", "government", "pm", "scheme", "bank", "free", "மானியம்", "ரூபாய்", "திட்டம்"],
+    "language": "en",
+    "tamil_headline": "பிரதமர் கன்யா ஆயுஷ் திட்டத்தின் கீழ் ரூ.50,000 இலவச உதவித்தொகை - வைரல் இணைப்பு",
+    "overall_verdict": "Likely False",
+    "credibility_score": 8,
+    "confidence": 0.99,
+    "original_date": "2026-10-10",
+    "latest_update_date": "2026-11-17",
+    "is_outdated": false,
+    "summary_en": "FRAUD ALERT: The Press Information Bureau (PIB Fact Check) and the Ministry of Women and Child Development have confirmed that no scheme titled PM Kanya Ayush Yojana exists. The circulated registration link is an online phishing trap designed to steal banking credentials.",
+    "summary_ta": "மோசடி எச்சரிக்கை: பிரதமர் கன்யா ஆயுஷ் திட்டம் என்ற பெயரில் எந்தவொரு திட்டமும் மத்திய அரசால் தொடங்கப்படவில்லை என பத்திரிகை தகவல் பணியகம் (PIB) மற்றும் பெண்கள் நல அமைச்சகம் தெளிவுபடுத்தியுள்ளது. இது வங்கி கணக்கு விவரங்களை திருடும் மோசடி வலைத்தளமாகும்.",
+    "claims": [
+      {
+        "id": "c1",
+        "statement_en": "Government of India launched PM Kanya Ayush Yojana offering Rs 50,000 direct bank transfer to all girl students.",
+        "statement_ta": "அனைத்து மாணவிகளுக்கும் ரூ.50,000 நேரடி வங்கி மானியம் வழங்கும் திட்டத்தை மத்திய அரசு தொடங்கியுள்ளது.",
+        "status": "Likely False",
+        "confidence": 0.99,
+        "supporting_evidence": "None. No gazette notification or official portal lists this scheme.",
+        "contradicting_evidence": "Official notification from Ministry of Women and Child Development clarifies no such scheme has ever been sanctioned.",
+        "sources": [
+          {
+            "name": "PIB Fact Check (Government of India)",
+            "category": "Verified Fact-Checker",
+            "url": "https://factcheck.pib.gov.in/fake-schemes/kanya-subsidy-hoax",
+            "date": "2026-10-15",
+            "reliability": "Very High"
+          },
+          {
+            "name": "Ministry of Women & Child Development",
+            "category": "Primary Official",
+            "url": "https://wcd.nic.in/advisories/fake-scheme-alert",
+            "date": "2026-10-16",
+            "reliability": "Very High"
+          }
+        ],
+        "explanation_en": "PIB Fact Check issued an explicit debunk confirming this scheme is fictitious.",
+        "explanation_ta": "மத்திய அரசு மற்றும் PIB உண்மை சரிபார்ப்பு பிரிவு இத்திட்டம் முற்றிலும் போலியானது என எச்சரித்துள்ளது."
+      },
+      {
+        "id": "c2",
+        "statement_en": "Beneficiaries must register on the shared bit.ly short link immediately to claim funds.",
+        "statement_ta": "பயனாளிகள் உடனடியாக பகிரப்பட்ட இணைப்பில் பதிவு செய்ய வேண்டும்.",
+        "status": "Likely False",
+        "confidence": 0.99,
+        "supporting_evidence": "None.",
+        "contradicting_evidence": "CERT-In and Cyber Crime Portal flagged the destination domain as a credential harvesting phishing domain targeting UPI and OTP numbers.",
+        "sources": [
+          {
+            "name": "Indian Computer Emergency Response Team (CERT-In)",
+            "category": "Primary Official",
+            "url": "https://cert-in.org.in/advisories",
+            "date": "2026-10-20",
+            "reliability": "Very High"
+          },
+          {
+            "name": "BOOM Live",
+            "category": "Verified Fact-Checker",
+            "url": "https://www.boomlive.in/fact-check/fake-pm-kanya-scheme-scam",
+            "date": "2026-10-18",
+            "reliability": "High"
+          }
+        ],
+        "explanation_en": "Legitimate government welfare registrations are hosted on government *.gov.in or *.nic.in domains, never on anonymous URL shorteners.",
+        "explanation_ta": "அரசு நலத்திட்டங்கள் எப்போதும் .gov.in அல்லது .nic.in முகவரிகளிலேயே செயல்படுத்தப்படும், குறுக்கு இணைப்புகளில் அல்ல."
+      }
+    ],
+    "missing_context": {
+      "has_missing_context": true,
+      "omitted_scope": "Exploits the name of genuine programs like Sukanya Samriddhi Yojana and Ayush Ministry to fabricate credibility.",
+      "omitted_entities": "Domain owner is an untraceable offshore server with no government affiliation.",
+      "critical_caveats": [
+        "Government of India never asks for banking PIN or OTP via SMS or WhatsApp links.",
+        "Registration portals are solely accessible on official .gov.in or .nic.in websites."
+      ],
+      "explanation_en": "The message deliberately splices together parts of legitimate government names to trick gullible parents into submitting financial credentials.",
+      "explanation_ta": "உண்மையான அரசு திட்டங்களின் பெயர்களை கலந்து மக்களை ஏமாற்றி பணப்பறிப்பு செய்ய உருவாக்கப்பட்ட செய்தி."
+    },
+    "timeline": [
+      {
+        "date": "2026-10-08",
+        "title_en": "Malicious Phishing Domain Registered",
+        "title_ta": "போலி வலைத்தள முகவரி பதிவு செய்யப்பட்டது",
+        "description_en": "Anonymous registrar sets up deceptive landing page with copied government logos.",
+        "type": "event",
+        "source": "Domain Registrar Logs"
+      },
+      {
+        "date": "2026-10-12",
+        "title_en": "Forward Explodes across WhatsApp & Telegram",
+        "title_ta": "வாட்ஸ்அப் மற்றும் டெலிகிராமில் செய்தி பரவியது",
+        "description_en": "Viral audio notes urge parents to apply before deadline.",
+        "type": "rumor",
+        "source": "Messaging Channels"
+      },
+      {
+        "date": "2026-10-15",
+        "title_en": "PIB Issues Red Alert Debunking Scheme",
+        "title_ta": "PIB உண்மை சரிபார்ப்பு பிரிவு அதிகாரப்பூர்வ எச்சரிக்கை வெளியீடு",
+        "description_en": "PIB Fact Check issues warning declaring the scheme 100% fabricated.",
+        "type": "fact_check",
+        "source": "PIB Fact Check"
+      },
+      {
+        "date": "2026-11-17",
+        "title_en": "TruthLens Flags Critical Phishing Threat",
+        "title_ta": "ட்ரூத்லென்ஸ் இணைய மோசடி எச்சரிக்கை அறிக்கை",
+        "description_en": "Verification rating 8/100, advising immediate report to cybercrime cell.",
+        "type": "verification",
+        "source": "TruthLens Engine"
+      }
+    ],
+    "sources_catalog": [
+      {
+        "name": "PIB Fact Check",
+        "type": "Verified Fact-Checker",
+        "authority_score": 98,
+        "is_independent": false,
+        "url": "https://factcheck.pib.gov.in",
+        "date": "2026-10-15",
+        "confirmation_available": true
+      },
+      {
+        "name": "Ministry of Women & Child Development",
+        "type": "Primary Official",
+        "authority_score": 99,
+        "is_independent": false,
+        "url": "https://wcd.nic.in",
+        "date": "2026-10-16",
+        "confirmation_available": true
+      },
+      {
+        "name": "BOOM Live",
+        "type": "Verified Fact-Checker",
+        "authority_score": 93,
+        "is_independent": true,
+        "url": "https://boomlive.in",
+        "date": "2026-10-18",
+        "confirmation_available": true
+      }
+    ]
+  },
+  {
+    "id": "kb-boiled-ginger-lemon-cure",
+    "topic": "Health & Medical Science",
+    "canonical_headline": "Drinking boiled ginger water with lemon completely cures viral infections in 24 hours without medicine",
+    "keywords": ["ginger", "lemon", "cure", "virus", "infection", "medicine", "who", "remedy", "இஞ்சி", "எலுமிச்சை", "மருந்து"],
+    "language": "en",
+    "tamil_headline": "இஞ்சி மற்றும் எலுமிச்சை சாறு அருந்தினால் 24 மணி நேரத்தில் வைரஸ் தொற்று குணமாகும் - வைரல் செய்தி",
+    "overall_verdict": "Misleading",
+    "credibility_score": 38,
+    "confidence": 0.96,
+    "original_date": "2025-08-12",
+    "latest_update_date": "2026-11-17",
+    "is_outdated": false,
+    "summary_en": "MEDICAL CAUTION: While ginger and lemon offer soothing hydration, antioxidant properties, and mild symptom relief for a sore throat, there is zero medical evidence that they kill viruses or replace clinical medical treatment. The claim that the World Health Organization recommended this as a 24-hour cure is completely fabricated.",
+    "summary_ta": "மருத்துவ எச்சரிக்கை: இஞ்சி மற்றும் எலுமிச்சை தொண்டை எரிச்சலுக்கு இதமளித்து நோய் எதிர்ப்பு சக்தியை சற்று கூட்டினாலும், அவை வைரஸ் தொற்றை 24 மணி நேரத்தில் குணமாக்கும் என்பதற்கு எந்த அறிவியல் ஆதாரமும் இல்லை. உலக சுகாதார நிறுவனம் (WHO) இதை பரிந்துரைத்ததாக கூறுவது அப்பட்டமான பொய்.",
+    "claims": [
+      {
+        "id": "c1",
+        "statement_en": "Ginger and lemon concoction acts as an antiviral agent that eliminates viral infections in 24 hours.",
+        "statement_ta": "இஞ்சி மற்றும் எலுமிச்சை 24 மணி நேரத்தில் வைரஸை அழிக்கும் ஆற்றல் கொண்டது.",
+        "status": "Likely False",
+        "confidence": 0.97,
+        "supporting_evidence": "Gingerol has mild in-vitro antimicrobial properties in lab petri dishes.",
+        "contradicting_evidence": "Extensive peer-reviewed clinical trials compiled by PubMed and WHO show no antiviral efficacy in human systemic infections.",
+        "sources": [
+          {
+            "name": "World Health Organization (WHO) Mythbusters",
+            "category": "Primary Official",
+            "url": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters",
+            "date": "2025-10-01",
+            "reliability": "Very High"
+          },
+          {
+            "name": "Reuters Fact Check",
+            "category": "Verified Fact-Checker",
+            "url": "https://www.reuters.com/fact-check/ginger-lemon-cure-myth",
+            "date": "2025-09-14",
+            "reliability": "High"
+          }
+        ],
+        "explanation_en": "No dietary remedy has been clinically proven to eradicate viral infections overnight.",
+        "explanation_ta": "எந்தவொரு உணவு முறையும் ஒரே நாளில் வைரஸ் தொற்றை முற்றிலும் அழிக்க முடியாது."
+      },
+      {
+        "id": "c2",
+        "statement_en": "WHO released a bulletin recommending this remedy instead of pharmaceutical drugs.",
+        "statement_ta": "மருந்துகளுக்கு பதிலாக இதை அருந்துமாறு WHO அறிக்கை வெளியிட்டுள்ளது.",
+        "status": "Likely False",
+        "confidence": 0.99,
+        "supporting_evidence": "None.",
+        "contradicting_evidence": "WHO public health guidelines explicitly advise against substituting evidence-based medical treatment with unverified home remedies.",
+        "sources": [
+          {
+            "name": "Health Feedback Medical Fact-Checkers",
+            "category": "Verified Fact-Checker",
+            "url": "https://healthfeedback.org/claimreview/boiled-ginger-cure-false",
+            "date": "2025-08-25",
+            "reliability": "High"
+          }
+        ],
+        "explanation_en": "WHO spokespersons repeatedly refuted viral messages attaching their name to home remedies.",
+        "explanation_ta": "தங்கள் பெயரை தவறாக பயன்படுத்தி வெளியிடப்படும் இத்தகைய வீட்டு வைத்திய ஆலோசனைகளை WHO மறுத்துள்ளது."
+      }
+    ],
+    "missing_context": {
+      "has_missing_context": true,
+      "omitted_scope": "Conflates gentle symptom relief (soothing warm liquids for cough) with antiviral cure.",
+      "omitted_entities": "Medical disclaimers for diabetic and acid reflux patients who may suffer adverse effects from excess consumption were omitted.",
+      "critical_caveats": [
+        "Warm fluids soothe throat tissues but do not kill systemic viruses.",
+        "Delaying professional medical care for severe respiratory symptoms can be life-threatening."
+      ],
+      "explanation_en": "The post takes a common household relief tip and irresponsibly promotes it as a miraculous replacement for standard medical diagnosis and medication.",
+      "explanation_ta": "தொண்டைக்கு இதமளிக்கும் எளிய வீட்டு பானத்தை, அனைத்து வைரஸ் தொற்றுகளையும் குணப்படுத்தும் அதிசய மருந்தாக மிகைப்படுத்திக் கூறியுள்ளது."
+    },
+    "timeline": [
+      {
+        "date": "2025-08-10",
+        "title_en": "Viral Holistic Health Blog Publishes Exaggerated Post",
+        "title_ta": "ஆதாரம் இல்லாத வலைப்பதிவில் பதிவு வெளியீடு",
+        "description_en": "Article claims natural kitchen ingredients eradicate viruses in 24 hours.",
+        "type": "rumor",
+        "source": "Social Blog"
+      },
+      {
+        "date": "2025-09-14",
+        "title_en": "Reuters Fact Check Issues Clarification",
+        "title_ta": "ராய்ட்டர்ஸ் உண்மை சரிபார்ப்பு அறிக்கை",
+        "description_en": "Medical virologists explain lack of clinical mechanism for 24-hour viral clearance.",
+        "type": "fact_check",
+        "source": "Reuters Fact Check"
+      },
+      {
+        "date": "2025-10-01",
+        "title_en": "WHO Updates Public Mythbusters Portal",
+        "title_ta": "WHO பொது சுகாதார வழிகாட்டல் புதுப்பிப்பு",
+        "description_en": "WHO emphasizes that dietary additions do not eliminate the need for certified care.",
+        "type": "official",
+        "source": "World Health Organization"
+      },
+      {
+        "date": "2026-11-17",
+        "title_en": "TruthLens Evaluates Medical Claim",
+        "title_ta": "ட்ரூத்லென்ஸ் மருத்துவ மதிப்பீடு",
+        "description_en": "Score 38/100 (Misleading), highlighting missing clinical context.",
+        "type": "verification",
+        "source": "TruthLens Engine"
+      }
+    ],
+    "sources_catalog": [
+      {
+        "name": "World Health Organization (WHO)",
+        "type": "Primary Official",
+        "authority_score": 99,
+        "is_independent": false,
+        "url": "https://who.int",
+        "date": "2025-10-01",
+        "confirmation_available": true
+      },
+      {
+        "name": "Reuters Fact Check",
+        "type": "Verified Fact-Checker",
+        "authority_score": 94,
+        "is_independent": true,
+        "url": "https://reuters.com/fact-check",
+        "date": "2025-09-14",
+        "confirmation_available": true
+      },
+      {
+        "name": "Health Feedback",
+        "type": "Verified Fact-Checker",
+        "authority_score": 92,
+        "is_independent": true,
+        "url": "https://healthfeedback.org",
+        "date": "2025-08-25",
+        "confirmation_available": true
+      }
+    ]
+  },
+  {
+    "id": "kb-isro-satellite-launch-reliable",
+    "topic": "Science & Space Exploration",
+    "canonical_headline": "ISRO successfully launched the NVS-02 navigation satellite into GTO using GSLV-F12 from Sriharikota",
+    "keywords": ["isro", "satellite", "gslv", "launch", "sriharikota", "navic", "nvs", "விண்கலம்", "இஸ்ரோ", "ஏவுதல்"],
+    "language": "en",
+    "tamil_headline": "இஸ்ரோ ஸ்ரீஹரிகோட்டாவில் இருந்து ஜிஎஸ்எல்வி-எஃப்12 மூலம் என்விஎஸ்-02 வழிகாட்டுதல் செயற்கைக்கோளை வெற்றிகரமாக ஏவியது",
+    "overall_verdict": "Likely Reliable",
+    "credibility_score": 96,
+    "confidence": 0.99,
+    "original_date": "2026-05-29",
+    "latest_update_date": "2026-11-17",
+    "is_outdated": false,
+    "summary_en": "FULLY VERIFIED: Official mission telemetry and live telecasts from the Indian Space Research Organisation (ISRO) confirm the successful liftoff and precision orbit injection of the second-generation NavIC satellite from Satish Dhawan Space Centre, Sriharikota.",
+    "summary_ta": "முழுமையாக உறுதிப்படுத்தப்பட்டது: இந்திய விண்வெளி ஆராய்ச்சி நிறுவனம் (இஸ்ரோ) ஸ்ரீஹரிகோட்டா சதீஷ் தவான் விண்வெளி மையத்திலிருந்து நாவிக் (NavIC) வரிசை செயற்கைக்கோளை திட்டமிட்ட சுற்றுப்பாதையில் வெற்றிகரமாக நிலைநிறுத்தியுள்ளது.",
+    "claims": [
+      {
+        "id": "c1",
+        "statement_en": "ISRO launched the NVS-02 navigation satellite using GSLV-F12 rocket.",
+        "statement_ta": "இஸ்ரோ ஜிஎஸ்எல்வி-எஃப்12 ராக்கெட் மூலம் என்விஎஸ்-02 செயற்கைக்கோளை ஏவியது.",
+        "status": "Likely Reliable",
+        "confidence": 0.99,
+        "supporting_evidence": "ISRO official press release and mission brochure confirm vehicle flight profile and payload specifications.",
+        "contradicting_evidence": "None.",
+        "sources": [
+          {
+            "name": "Indian Space Research Organisation (ISRO)",
+            "category": "Primary Official",
+            "url": "https://www.isro.gov.in/GSLV-F12_NVS-02_Mission.html",
+            "date": "2026-05-29",
+            "reliability": "Very High"
+          },
+          {
+            "name": "Doordarshan National Live Telecast",
+            "category": "Established News",
+            "url": "https://ddnews.gov.in/isro-mission-success",
+            "date": "2026-05-29",
+            "reliability": "Very High"
+          }
+        ],
+        "explanation_en": "Primary telemetry and official press communications corroborate the launch data.",
+        "explanation_ta": "இஸ்ரோவின் நேரலை தரவுகள் மற்றும் செய்திக் குறிப்பு இந்த ஏவுதல் வெற்றியை உறுதி செய்கின்றன."
+      },
+      {
+        "id": "c2",
+        "statement_en": "The satellite was accurately placed into Geosynchronous Transfer Orbit (GTO).",
+        "statement_ta": "செயற்கைக்கோள் துல்லியமாக புவி ஒத்திசைவு பரிமாற்ற சுற்றுப்பாதையில் நிலைநிறுத்தப்பட்டது.",
+        "status": "Likely Reliable",
+        "confidence": 0.98,
+        "supporting_evidence": "Telemetry tracking at Master Control Facility in Hassan, Karnataka verified nominal separation at altitude.",
+        "contradicting_evidence": "None.",
+        "sources": [
+          {
+            "name": "Press Information Bureau (PIB)",
+            "category": "Primary Official",
+            "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=1928091",
+            "date": "2026-05-29",
+            "reliability": "Very High"
+          }
+        ],
+        "explanation_en": "Orbital tracking systems confirmed exact coordinates matching mission parameters.",
+        "explanation_ta": "விண்வெளி கண்காணிப்பு மையத்தின் தரவுகள் சுற்றுப்பாதை நிலைநிறுத்தத்தை உறுதி செய்துள்ளன."
+      }
+    ],
+    "missing_context": {
+      "has_missing_context": false,
+      "omitted_scope": "None detected. The report provides accurate vehicle, payload, and mission status details.",
+      "omitted_entities": "None.",
+      "critical_caveats": [],
+      "explanation_en": "The news contains complete factual context without distortion, omission, or sensationalized claims.",
+      "explanation_ta": "இச்செய்தியில் எந்த தகவலும் மறைக்கப்படாமல், துல்லியமான உண்மைகளுடன் முழுமையாக வெளியிடப்பட்டுள்ளது."
+    },
+    "timeline": [
+      {
+        "date": "2026-05-28 07:12",
+        "title_en": "27.5-Hour Countdown Commences at Sriharikota",
+        "title_ta": "ஸ்ரீஹரிகோட்டாவில் கவுண்டவுன் துவங்கியது",
+        "description_en": "Propellant filling of liquid and cryogenic stages begins.",
+        "type": "official",
+        "source": "ISRO Launch Control"
+      },
+      {
+        "date": "2026-05-29 10:42",
+        "title_en": "Liftoff of GSLV-F12 Rocket",
+        "title_ta": "জিஎஸ்எல்வி-எஃப்12 ராக்கெட் வெற்றிகரமான ஏவுதல்",
+        "description_en": "Vehicle lifts off majestically from Second Launch Pad.",
+        "type": "event",
+        "source": "ISRO Telemetry"
+      },
+      {
+        "date": "2026-05-29 11:01",
+        "title_en": "Satellite Separation and Orbit Injection Confirmed",
+        "title_ta": "செயற்கைக்கோள் சுற்றுப்பாதையில் வெற்றிகரமாக நிலைநிறுத்தம்",
+        "description_en": "ISRO Chairman announces mission success from Mission Control Centre.",
+        "type": "official",
+        "source": "ISRO Headquarters"
+      },
+      {
+        "date": "2026-11-17",
+        "title_en": "TruthLens Routine Credibility Audit",
+        "title_ta": "ட்ரூத்லென்ஸ் சரிபார்ப்பு தணிக்கை",
+        "description_en": "Score 96/100 confirmed with high primary source corroboration.",
+        "type": "verification",
+        "source": "TruthLens Engine"
+      }
+    ],
+    "sources_catalog": [
+      {
+        "name": "Indian Space Research Organisation (ISRO)",
+        "type": "Primary Official",
+        "authority_score": 99,
+        "is_independent": false,
+        "url": "https://isro.gov.in",
+        "date": "2026-05-29",
+        "confirmation_available": true
+      },
+      {
+        "name": "Press Information Bureau (PIB)",
+        "type": "Primary Official",
+        "authority_score": 98,
+        "is_independent": false,
+        "url": "https://pib.gov.in",
+        "date": "2026-05-29",
+        "confirmation_available": true
+      },
+      {
+        "name": "The Hindu Science Bureau",
+        "type": "Established News",
+        "authority_score": 91,
+        "is_independent": true,
+        "url": "https://thehindu.com/sci-tech/science",
+        "date": "2026-05-29",
+        "confirmation_available": true
+      }
+    ]
+  },
+  {
+    "id": "kb-tamil-board-exam-cancellation",
+    "topic": "Education & Examination",
+    "canonical_headline": "Tamil Nadu School Education Minister announces cancellation of 10th and 12th board exams",
+    "keywords": ["tamil nadu", "board exam", "10th", "12th", "cancelled", "minister", "பொதுத்தேர்வு", "ரத்து", "பள்ளிக்கல்வித்துறை", "அமைச்சர்", "அன்பில் மகேஷ்"],
+    "language": "ta",
+    "tamil_headline": "தமிழ்நாட்டில் 10 மற்றும் 12-ஆம் வகுப்பு பொதுத்தேர்வுகள் ரத்து என பரவும் போலி தகவல்",
+    "overall_verdict": "Likely False",
+    "credibility_score": 12,
+    "confidence": 0.98,
+    "original_date": "2021-06-05",
+    "latest_update_date": "2026-11-17",
+    "is_outdated": true,
+    "old_news_details": {
+      "original_year": "2021",
+      "original_event_date": "June 2021",
+      "circulation_year": "2026",
+      "time_gap_years": 5,
+      "current_status": "Board exams are scheduled normally according to the official academic calendar. No exams have been cancelled.",
+      "newer_update_available": true
+    },
+    "summary_en": "FALSE & OUTDATED: A viral video clip circulating on social media claiming the Tamil Nadu government cancelled 10th and 12th state board exams is an old 2021 pandemic-era announcement. The Department of School Education confirmed that examinations will take place as scheduled.",
+    "summary_ta": "தவறான பழைய செய்தி: தமிழ்நாட்டில் 10 மற்றும் 12-ஆம் வகுப்பு பொதுத்தேர்வுகள் ரத்து செய்யப்படுவதாக பரவும் காணொளி, 2021 கொரோனா காலத்து பழைய காணொளி ஆகும். இந்த ஆண்டு பொதுத்தேர்வுகள் திட்டமிட்டபடி நடைபெறும் என்று பள்ளிக்கல்வித்துறை அமைச்சர் அன்பில் மகேஷ் பொய்யாமொழி தெளிவுபடுத்தியுள்ளார்.",
+    "claims": [
+      {
+        "id": "c1",
+        "statement_en": "Tamil Nadu government cancelled Class 10 and 12 public board exams for the current academic session.",
+        "statement_ta": "நடப்பு கல்வி ஆண்டில் 10 மற்றும் 12-ஆம் வகுப்பு பொதுத்தேர்வுகளை தமிழக அரசு ரத்து செய்துள்ளது.",
+        "status": "Likely False",
+        "confidence": 0.99,
+        "supporting_evidence": "Old video clip from June 2021 pandemic period.",
+        "contradicting_evidence": "Official press clarification from the Directorate of Government Examinations (DGE) and School Education Department.",
+        "sources": [
+          {
+            "name": "Directorate of Government Examinations Tamil Nadu (DGE)",
+            "category": "Primary Official",
+            "url": "https://dge.tn.gov.in/notifications",
+            "date": "2026-11-15",
+            "reliability": "Very High"
+          },
+          {
+            "name": "YouTurn Tamil Fact Check",
+            "category": "Verified Fact-Checker",
+            "url": "https://youturn.in/factcheck/tamilnadu-board-exam-cancel-fake-news",
+            "date": "2026-11-15",
+            "reliability": "High"
+          }
+        ],
+        "explanation_en": "The video being shared is from 2021 during the Covid-19 pandemic. Exams are taking place as scheduled.",
+        "explanation_ta": "பகிரப்படும் காணொளி 2021 கொரோனா காலத்தியது. பொதுத்தேர்வுகள் திட்டமிட்டபடி நடைபெறும்."
+      }
+    ],
+    "missing_context": {
+      "has_missing_context": true,
+      "omitted_scope": "Deliberately clipped out the Covid-19 health references and 2021 date watermark from the original broadcast.",
+      "omitted_entities": "Official examination timetable published on dge.tn.gov.in was ignored.",
+      "critical_caveats": [
+        "The announcement dates to June 2021 during Covid-19 pandemic.",
+        "Current academic year examinations remain unchanged."
+      ],
+      "explanation_en": "Video cropping was used to deceptively present a 5-year-old Covid-19 crisis announcement as a current government order.",
+      "explanation_ta": "2021 கொரோனா காலத்து காணொளியை எடிட் செய்து, தற்போதைய தேர்வு ரத்து போல தவறாக வதந்தி பரப்பப்பட்டுள்ளது."
+    },
+    "timeline": [
+      {
+        "date": "2021-06-05",
+        "title_en": "Original 2021 Pandemic Announcement",
+        "title_ta": "2021 கொரோனா காலத்து அசல் அறிவிப்பு",
+        "description_en": "Government cancelled exams in 2021 due to severe second Covid wave.",
+        "type": "event",
+        "source": "State Cabinet Briefing"
+      },
+      {
+        "date": "2026-11-14",
+        "title_en": "Altered Video Clip Viral on Instagram Reels & WhatsApp",
+        "title_ta": "இன்ஸ்டாகிராம் மற்றும் வாட்ஸ்அப்பில் பழைய காணொளி பரவியது",
+        "description_en": "Students and parents confused by viral clip without date stamp.",
+        "type": "rumor",
+        "source": "Instagram Reels"
+      },
+      {
+        "date": "2026-11-15",
+        "title_en": "School Education Minister Issues Clarification",
+        "title_ta": "பள்ளிக்கல்வித்துறை அமைச்சர் அதிகாரப்பூர்வ மறுப்பு",
+        "description_en": "Minister warns strict action against rumor mongers; releases exam schedule.",
+        "type": "official",
+        "source": "Minister Office Press Meet"
+      },
+      {
+        "date": "2026-11-17",
+        "title_en": "TruthLens Debunks Recycled Video",
+        "title_ta": "ட்ரூத்லென்ஸ் பழைய காணொளி என உறுதிப்படுத்தியது",
+        "description_en": "Cross-verified with DGE records and YouTurn fact-check report.",
+        "type": "verification",
+        "source": "TruthLens Engine"
+      }
+    ],
+    "sources_catalog": [
+      {
+        "name": "Directorate of Government Examinations (DGE)",
+        "type": "Primary Official",
+        "authority_score": 98,
+        "is_independent": false,
+        "url": "https://dge.tn.gov.in",
+        "date": "2026-11-15",
+        "confirmation_available": true
+      },
+      {
+        "name": "YouTurn Tamil Fact Check",
+        "type": "Verified Fact-Checker",
+        "authority_score": 93,
+        "is_independent": true,
+        "url": "https://youturn.in",
+        "date": "2026-11-15",
+        "confirmation_available": true
+      },
+      {
+        "name": "Puthiya Thalaimurai News",
+        "type": "Established News",
+        "authority_score": 89,
+        "is_independent": true,
+        "url": "https://puthiyathalaimurai.com",
+        "date": "2026-11-15",
+        "confirmation_available": true
+      }
+    ]
+  }
+]

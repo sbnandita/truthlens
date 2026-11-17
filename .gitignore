@@ -1,0 +1,34 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Python bytecode and environments
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.env
+.venv/
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist-egg/
+*.egg-info/
+
+# SQLite journals and temporary files
+*.db-journal
+*.db-wal
+*.db-shm
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
+*.log

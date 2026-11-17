@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Manrope:wght@400;500;600;700;800&family=Noto+Sans+Tamil:wght@400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: dark;
+}
+
+body {
+  background-color: #171412;
+  color: #F2E8DB;
+  font-family: 'Inter', 'Noto Sans Tamil', system-ui, sans-serif;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Custom subtle scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #171412;
+}
+::-webkit-scrollbar-thumb {
+  background: #35251E;
+  border-radius: 4px;
+  border: 1px solid #654536;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #654536;
+}
+
+/* Print Styles for Smart PDF Report */
+@media print {
+  body {
+    background-color: #ffffff !important;
+    color: #171412 !important;
+  }
+  .no-print {
+    display: none !important;
+  }
+  .print-only {
+    display: block !important;
+  }
+  .print-card {
+    background: #ffffff !important;
+    border: 1px solid #cccccc !important;
+    color: #171412 !important;
+    box-shadow: none !important;
+  }
+}
