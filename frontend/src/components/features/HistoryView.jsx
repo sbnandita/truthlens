@@ -26,7 +26,7 @@ export default function HistoryView({ onSelectReport, t, language }) {
       if (statusFilter && statusFilter !== 'all') params.append('status', statusFilter);
       if (bookmarkedOnly) params.append('bookmarked', '1');
 
-      const res = await fetch(`http://localhost:5000/api/history?${params.toString()}`);
+      const res = await fetch(`/api/history?${params.toString()}`);
       const data = await res.json();
       if (data && data.history) {
         setHistory(data.history);
@@ -45,7 +45,7 @@ export default function HistoryView({ onSelectReport, t, language }) {
   const handleToggleBookmark = async (id, e) => {
     e.stopPropagation();
     try {
-      const res = await fetch(`http://localhost:5000/api/history/${id}/bookmark`, { method: 'POST' });
+      const res = await fetch(`/api/history/${id}/bookmark`, { method: 'POST' });
       const data = await res.json();
       if (res.ok) {
         setHistory(prev => prev.map(item => item.id === id ? { ...item, is_bookmarked: data.is_bookmarked ? 1 : 0 } : item));
@@ -58,7 +58,7 @@ export default function HistoryView({ onSelectReport, t, language }) {
   const handleDelete = async (id, e) => {
     e.stopPropagation();
     try {
-      const res = await fetch(`http://localhost:5000/api/history/${id}`, { method: 'DELETE' });
+      const res = await fetch(`/api/history/${id}`, { method: 'DELETE' });
       if (res.ok) {
         setHistory(prev => prev.filter(item => item.id !== id));
       }

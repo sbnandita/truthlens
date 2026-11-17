@@ -32,7 +32,7 @@ export default function NewsInputDashboard({
 
   // Fetch sample test cases from backend
   useEffect(() => {
-    fetch('http://localhost:5000/api/samples')
+    fetch('/api/samples')
       .then(res => res.json())
       .then(data => {
         if (data && data.samples) {

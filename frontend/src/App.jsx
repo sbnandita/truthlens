@@ -35,7 +35,7 @@ export default function App() {
     }
 
     const timer = setTimeout(() => {
-      fetch('http://localhost:5000/api/check-duplicate', {
+      fetch('/api/check-duplicate', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ text: inputText.trim() })
@@ -63,7 +63,7 @@ export default function App() {
     setIsAnalyzing(true);
 
     try {
-      const res = await fetch('http://localhost:5000/api/verify', {
+      const res = await fetch('/api/verify', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
@@ -106,7 +106,7 @@ export default function App() {
   // Open saved report from history or duplicate alert
   const handleSelectReport = async (reportId) => {
     try {
-      const res = await fetch(`http://localhost:5000/api/history/${reportId}`);
+      const res = await fetch(`/api/history/${reportId}`);
       const data = await res.json();
       if (res.ok) {
         setActiveReport(data);
@@ -121,7 +121,7 @@ export default function App() {
   // Toggle bookmark
   const handleToggleBookmark = async (id) => {
     try {
-      const res = await fetch(`http://localhost:5000/api/history/${id}/bookmark`, { method: 'POST' });
+      const res = await fetch(`/api/history/${id}/bookmark`, { method: 'POST' });
       const data = await res.json();
       if (res.ok && activeReport && activeReport.id === id) {
         setActiveReport(prev => ({ ...prev, is_bookmarked: data.is_bookmarked }));

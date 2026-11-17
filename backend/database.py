@@ -4,7 +4,18 @@ import os
 import re
 from datetime import datetime, timezone
 
-DB_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'truthlens.db')
+import shutil
+
+ORIGINAL_DB = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'truthlens.db')
+if os.environ.get('VERCEL'):
+    DB_PATH = '/tmp/truthlens.db'
+    if not os.path.exists(DB_PATH) and os.path.exists(ORIGINAL_DB):
+        try:
+            shutil.copyfile(ORIGINAL_DB, DB_PATH)
+        except Exception:
+            pass
+else:
+    DB_PATH = ORIGINAL_DB
 
 def get_connection():
     conn = sqlite3.connect(DB_PATH)

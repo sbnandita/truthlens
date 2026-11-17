@@ -31,7 +31,7 @@ export default function AskTruthLensAI({ report, t, language }) {
     setIsLoading(true);
 
     try {
-      const res = await fetch('http://localhost:5000/api/ask', {
+      const res = await fetch('/api/ask', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({

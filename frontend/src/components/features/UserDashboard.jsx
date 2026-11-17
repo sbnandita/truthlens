@@ -26,14 +26,14 @@ export default function UserDashboard({ setCurrentView, onSelectReport, t, langu
   const [bookmarkedList, setBookmarkedList] = useState([]);
 
   useEffect(() => {
-    fetch('http://localhost:5000/api/stats')
+    fetch('/api/stats')
       .then(res => res.json())
       .then(data => {
         if (data) setStats(data);
       })
       .catch(console.warn);
 
-    fetch('http://localhost:5000/api/history?bookmarked=1&limit=6')
+    fetch('/api/history?bookmarked=1&limit=6')
       .then(res => res.json())
       .then(data => {
         if (data && data.history) setBookmarkedList(data.history);
